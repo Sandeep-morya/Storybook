@@ -1,0 +1,8 @@
+.buttonStyles{
+    color:limegreen;
+    padding: .8rem;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 5px grey;
+    font-weight: 500;
+}
